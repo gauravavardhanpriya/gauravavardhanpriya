@@ -42,9 +42,9 @@
 - How to control output formatting
 
 **Projects Links:**
-- [Hello, It's me](./CS50x%202026/week1/hello.c)
-- [Mario More](./CS50x%202026/week1/mariomore.c)
-- [Cash](./CS50x%202026/week1/cash.c)
+- [Hello, It's me](./week1/hello.c)
+- [Mario More](./week1/mariomore.c)
+- [Cash](./week1/cash.c)
 
 
 **Review:**
