@@ -26,12 +26,17 @@
 
 # CS50 Progress:
 • Week 0 (Completed): 
-Problem - Build a Scratch project with certain requirements.
-Difficulty - Medium 
+Problem - Build a Scratch project with certain requirements
+
+Difficulty - Medium
+
 • Week 1 (Completed):
-Problem (MarioMore) - Print a right-alighned pyramid of hashesh
+Problem (Hello, It's me; MarioMore; Cash) - Print a Hello,<user name> and a right-alighned pyramid of hashes. Code a greedy algorithm that counts the number of coins.
+
 Difficulty - Hard
+
 Concepts - Loops, nested loops
+
 • Week 2 (In Progress):
 ...
 
