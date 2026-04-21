@@ -1,7 +1,7 @@
 # Welcome to my academic and coding journey!
 
 
-### * **About me:** Hi, I'm Gaurava, currently in 11th grade. As a Science stream(PCM + CS + SOCIOLOGY) student, at the moment, I'm exploring the world of Computer Science while managing my academic performance in school and developing skills such that they complement my interests and abilities. This repository documents my growth from the beginning of my coding journey..
+### * **About me:** Hi, I'm Gaurava, currently in 11th grade. As a Science stream(PCM + CS) student, at the moment, I'm exploring the world of Computer Science while managing my academic performance in school and developing skills such that they complement my interests and abilities. This repository documents my growth from the beginning of my coding journey..
 
 ---
 
