@@ -9,18 +9,20 @@
 • Finish all weeks of CS50x.
 • Build my first independent coding project.
 • Explore new hobbies while developing useful skills.
-• Prep for applying into the top universities of the world.
+• Prep for applying to the top universities of the world.
 
 ---
 
 # My journey's Timeline:
 
 ### 2026
-• **January & February:** Focused on preparation for 10th grade Board examinations. Underwent examinations. Predeveloped interest in Computer Science as a subject and future path.
+• **January & February:** Focused on preparation for 10th grade Board examinations. Underwent examinations. Developed an interest in Computer Science as a subject and future path.
 
-• **March:** Examinations come to an end. Figuring out interests and abilities. Searching for a new hobby. Researching Computer Science as a future pathway. Started the CS50x journey with big dreams. Learned how to use Scratch and C. Successful in completing Week 1 and Week 2.
+• **March:** Examinations came to an end. Figuring out interests and abilities. Searching for a new hobby. Researching Computer Science as a future pathway. Started the CS50x journey with big dreams. Learned how to use Scratch and C. Successful in completing Week 1 and Week 2.
 
-• **April:** Officially, 11th grade starts. Balancing my new academic year with self-learning endeavour, CS50x. 
+• **April:** Officially, 11th grade starts. Balancing my new academic year with a self-learning endeavour, CS50x. 
+
+• **May:** The syllabus of 11th grade came in full force. I initialised my prep for JEE/IIT with a dedicated heart. Studies and the curriculum syllabus snatched more and more of my time. CS50x was ultimately pushed into the corner for now. It was essential to create a balance. I participated in an inter-school web-designing competition and designed Vigilance, with the sole purpose of it aiding women in their times of distress. I did not win. But I gained experience.
 
 ---
 
@@ -31,7 +33,7 @@ Problem - Build a Scratch project with certain requirements
 Difficulty - Medium
 
 • Week 1 (Completed):
-Problem (Hello, It's me; MarioMore; Cash) - Print a Hello,<user name> and a right-alighned pyramid of hashes. Code a greedy algorithm that counts the number of coins.
+Problem (Hello, It's me; MarioMore; Cash) - Print a Hello,<user name> and a right-aligned pyramid of hashes. Code a greedy algorithm that counts the number of coins.
 
 Difficulty - Hard
 
@@ -44,8 +46,8 @@ Concepts - Loops, nested loops
 
 ### More to know about me:
 • **Music:** Big fan of English music and certain works of poets.
-• **Poet:** I find writing poetry as a great method to understand my emotions and destress.
-• **Athlete:** My favourite outdoor, physical games are Football and Volleyball.
+• **Poet:** I find writing poetry a great method to understand my emotions and destress.
+• **Athlete:** My favourite outdoor physical games are Football and Volleyball.
 • **Reader:** Massive fan of a select few works. I prefer novels and comics over micro-content.
 
 ---
